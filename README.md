@@ -1,7 +1,6 @@
-﻿# Neumorphic-Form
-https://umar-ashraf09.github.io/Neumorphic-Form/
+﻿# Neumorphic Form
 
-# Neumorphic Form
+[Neumorphic Form](https://umar-ashraf09.github.io/Neumorphic-Form/)
 
 Create a stylish neumorphic-themed form using HTML and CSS with a touch of Poppins font.
 
@@ -11,11 +10,11 @@ Create a stylish neumorphic-themed form using HTML and CSS with a touch of Poppi
 - [Technologies Used](#technologies-used)
 - [Form Elements](#form-elements)
 - [Design and Styling](#design-and-styling)
-- [License](#license)
 
 ## Preview
 
-<!-- Add a preview image link or GIF if available -->
+![Neumorphic Form](https://github.com/Umar-Ashraf09/Neumorphic-Form/assets/92431008/0181bec8-35c7-4965-a8db-d903677b284f)
+
 
 ## Technologies Used
 
@@ -34,7 +33,3 @@ Create a stylish neumorphic-themed form using HTML and CSS with a touch of Poppi
 ## Design and Styling
 
 The form features a neumorphic design with subtle shadows and a pleasing color scheme. The Poppins font is used to enhance the overall visual appeal.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your requirements.
