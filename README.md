@@ -13,7 +13,7 @@ Create a stylish neumorphic-themed form using HTML and CSS with a touch of Poppi
 
 ## Preview
 
-![Neumorphic Form](https://github.com/Umar-Ashraf09/Neumorphic-Form/assets/92431008/0181bec8-35c7-4965-a8db-d903677b284f)
+![Neumorphic Form](https://github.com/Umar-Ashraf09/Neumorphic-Form/assets/92431008/39e6f18f-54c5-4eff-8056-1940479a959b)
 
 
 ## Technologies Used
